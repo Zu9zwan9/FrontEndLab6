@@ -1,0 +1,12 @@
+img {
+    height: 100px;
+}
+
+.col {
+    display: flex;
+    flex-direction: row;
+}
+
+.row .value{
+    margin-left: 10px;
+}
